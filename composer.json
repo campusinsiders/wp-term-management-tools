@@ -1,0 +1,9 @@
+{
+    "name": "christianc1/wp-term-management-tools",
+    "description": "Maintained fork of scribu/wp-term-management-tools",
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "~1.0"
+    },
+    "require-dev": {}
+}
